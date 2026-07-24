@@ -17,7 +17,7 @@ I'm interested in web development and games. Also, I hate JavaScript💀
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,typescript,postgres,mongodb,redis&perline=5" />
     <h3>Frameworks / Tools / Libs</h3>
-    <img src="https://skillicons.dev/icons?i=unity,linux,docker,git,fastapi,nestjs,nextjs,react&perline=7" />
+    <img src="https://skillicons.dev/icons?i=unity,linux,docker,k8s,git,fastapi,nestjs,nextjs,react&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim,postman,ultimate&perline=7" />
     <br>
